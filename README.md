@@ -1,1 +1,1 @@
-# ethical_hakcing_project_sql_injection
+# ethical hakcing project sql injection on a vulnerable simple website
